@@ -1,0 +1,13 @@
+{
+  "description": "Convert one bank or credit-card OFX statement to posted transaction CSV.",
+  "topics": [
+    "python",
+    "ofx-to-csv",
+    "ofx-converter",
+    "bank-transactions",
+    "credit-card",
+    "cli",
+    "converter",
+    "accounting"
+  ]
+}
